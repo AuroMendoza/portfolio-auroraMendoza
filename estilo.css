@@ -66,18 +66,17 @@ html{
     align-items: center;
 }
 .inicio .contenido-banner{
-    padding: 20px;
+    padding-top: 5rem;
     background-color: #1e2326;
-    max-width: 350px;
+    width: 500px;
     margin: auto;
     text-align: center;
-    border-radius: 40px;
+    border-radius: 20px;
 }
 .inicio .contenido-banner img{
-    margin-top: 40px;
-    border: 10px solid #1CB698;
+    border: 5px solid #1CB698;
     display: block;
-    width: 80%;
+    width: 40%;
     margin: auto;
     border-radius: 100%;
 }
