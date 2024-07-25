@@ -526,6 +526,7 @@ html{
     background-color: #1e2326;
     color: #fff;
     padding: 50px 0;
+
 }
 .contacto .contenido-seccion{
     max-width: 1100px;
@@ -539,11 +540,13 @@ html{
 }
 .contacto .fila{
     display: flex;
+
 }
 .contacto .col{
     width: 50%;
     padding: 10px;
     position: relative;
+
 }
 .contacto .col input, .contacto .col textarea{
     display: block;
